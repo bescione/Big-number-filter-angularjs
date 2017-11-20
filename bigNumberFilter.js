@@ -1,11 +1,6 @@
 (function () {
   'use strict';
-  /**
-   *  Module
-   *
-   * Description :
-   * Example: {{yourNumber | measurementFilter:'{"states":"KMB","start":100000,"steps":1000,"filter":true}'}}
-   */
+  
   angular.module('bigNumberManagement', []);
 
   /**
