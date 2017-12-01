@@ -1,4 +1,4 @@
-(function (window, angular) {
+(function () {
   'use strict';
   
   angular.module('bigNumberManagement', []);
@@ -112,4 +112,4 @@
     }
   }
 
-})(window, angular);
+})();
